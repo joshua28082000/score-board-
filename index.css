@@ -1,0 +1,234 @@
+ body {
+    margin: 0;
+    position: relative;
+width: 575px;
+height: 385px;
+  background:orangered  
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.emety{position: absolute;
+width: 155px;
+height: 120px;
+left: 82px;
+top: 125px;
+
+background: #080001;
+border-radius: 5px;
+}
+.emety1{
+    position: absolute;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 125px;
+
+background: #080001;
+border-radius: 5px;
+}
+.head1{
+position: absolute;
+width: 146px;
+height: 36px;
+left: 85px;
+top: 21px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+}
+.head2{
+position: absolute;
+width: 149px;
+height: 36px;
+left: 340px;
+top: 21px;
+
+font-family: 'Verdana';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 36px;
+/* identical to box height, or 90% */
+
+text-align: center;
+
+color: #EEEEEE;
+}
+#bts{
+    position: absolute;
+width: 155px;
+height: 120px;
+left: 82px;
+top: 125px;
+background: #080001;
+border-radius: 5px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+
+}
+.bt1{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 82px;
+top: 271px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+
+}
+#bt1{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 82px;
+top: 271px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+
+}
+
+#bt2{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 136px;
+top: 271px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+
+}
+
+#bt3{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 192px;
+top: 271px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+
+}
+
+
+#btss{
+     position: absolute;
+width: 155px;
+height: 120px;
+left: 337px;
+top: 125px;
+ background: #080001;
+border-radius: 5px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 127px;
+/* or 141% */
+
+text-align: center;
+
+color: #F94F6D;
+}
+#bt1s{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 337px;
+top: 271px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+}
+#bt2s{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 391px;
+top: 271px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+}
+#bt3s{
+    position: absolute;
+width: 45px;
+height: 45px;
+left: 447px;
+top: 271px;
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 155% */
+
+text-align: center;
+
+color: #9AABD8;
+}
