@@ -1,10 +1,15 @@
  body {
-    margin: 0;
-    position: relative;
+    margin: 50px 400px   ;
+    border: 10px solid black;
+    position:fixed;
 width: 575px;
 height: 385px;
-  background:orangered  
+  background-image: url('basketball-g8426f12b8_640.jpg');
+  background-size: cover;
+  
+
 }
+ 
 
 .container {
     display: flex;
